@@ -1,0 +1,11 @@
+{
+  "name": "meditationclock-dev",
+  "version": "1.0.0",
+  "description": "**小程序说明**    本项目很适合微信小程序入门者学习使用。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
