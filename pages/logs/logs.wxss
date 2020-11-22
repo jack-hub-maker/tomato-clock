@@ -38,7 +38,7 @@
 .detail_title .detail_title_type {
   flex: 1;
   text-align: right;
-  font-size: 25rpx;
+  font-size: 30rpx;
 }
 .detail_title .detail_title_type text{
   padding-left: 10rpx;
@@ -47,15 +47,19 @@
   color: #E7624F;
 }
 .list_item {
+  border-radius: 15rpx;
+  margin-top: 10rpx;
+  background-color:rgba(251, 234, 174);
   display: flex;
-  height: 40rpx;
-  line-height: 40rpx;
+  height: 45rpx;
+  line-height: 45rpx;
   padding-top: 15rpx;
 }
 /* .list_item > view {
   width: 200rpx;
 } */
 .list_item .list_item_date {
+  
   width: 300rpx;
   font-size: 30rpx;
   text-align: center;
@@ -69,4 +73,5 @@
   width: 200rpx;
   font-size: 30rpx;
   text-align: right;
+  margin-right: 20rpx;
 }

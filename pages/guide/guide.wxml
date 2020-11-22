@@ -1,7 +1,7 @@
 <!--pages/guide/guide.wxml-->
 <view class="welcome">
-	<text class="welcome_title">欢迎来到  番茄时钟</text>
-	<text class="welcome_text">番茄时钟是一款用来管理时间的小程序，把每天的任务时间进行记录，将你的记录可视化，让你清楚的知道自己每天干了什么，花了多长时间，从而改进自己的生活。</text>
+	<text class="welcome_title">欢迎来到  番茄果果</text>
+	<text class="welcome_text">番茄果果是一款用来管理时间的小程序，把每天的任务时间进行记录，将你的记录可视化，让你清楚的知道自己每天干了什么，花了多长时间，从而改进自己的生活。</text>
 </view>
 
 <view class="main">
